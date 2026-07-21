@@ -107,12 +107,12 @@ After completing this project you will understand
 ## Repository Structure
 
 ```
-02-cte-subqueries-sql
+cte-subqueries-sql
 │
 ├── README.md
 ├── schema.sql
 ├── data.sql
 ├── queries.sql
-├── screenshots
-└── LICENSE
+├── .gitnore
+└── screenshots
 ```
