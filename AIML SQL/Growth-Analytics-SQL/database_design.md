@@ -1,3 +1,5 @@
+Database Design
+```
 users
    │
    │
@@ -11,3 +13,4 @@ events
 users
    │
 experiments
+```
